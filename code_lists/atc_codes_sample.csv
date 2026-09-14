@@ -5,3 +5,4 @@ drug_group,drug_family,drug_name,atc,trade_names,pediatric_flare_dose,pediatric_
 "IBD-läkemedel","Aminosalicylates","Balsalazide","A07EC04","Colazid","",""
 "IBD-läkemedel","Corticosteroids acting locally","Hydrocortisone","A07EA02","Colifoam","Lowest possible dose","Lowest possible dose"
 "IBD-läkemedel","Corticosteroids acting locally","Budesonide","A07EA06","Budenofalk; Entocort","Lowest possible dose","Lowest possible dose"
+testing, testing, testing
